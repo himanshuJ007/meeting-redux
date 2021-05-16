@@ -1,0 +1,12 @@
+export const UPDATE_EMAIL="UPDATE_EMAIL";
+export const UPDATE_PASS="UPDATE_PASS";
+export const LOGIN ="LOGIN";
+export const HOME ="/";
+export const VIEW ="/view";
+export const FEEDBACK ="/feedback";
+export const SET_HOME ="HOME";
+ export const SET_DATE ="DATE";
+ export const SET_EQUIPMENT ="EQUIPMENT";
+ export const SET_TIME ="TIME";
+ export const SET_LOCATION ="LOCATION";
+ export const SET_PARTICIPANTS ="PARTICIPANTS";
